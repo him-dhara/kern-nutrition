@@ -1,3 +1,5 @@
+<img src="./1.png" width="1920" height="1080" />
+
 # KERN
 
 > Full brand identity + Framer website for a functional nutrition brand targeting busy professionals.
